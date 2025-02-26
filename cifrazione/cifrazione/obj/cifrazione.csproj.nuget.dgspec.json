@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cucchiarini.cesare\\Desktop\\progetti C#\\cifrazione\\cifrazione\\cifrazione.csproj": {}
+    "C:\\Users\\cucchiarini.cesare\\Desktop\\progetti C#\\decifrazione\\cifrazione\\cifrazione\\cifrazione.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cucchiarini.cesare\\Desktop\\progetti C#\\cifrazione\\cifrazione\\cifrazione.csproj": {
+    "C:\\Users\\cucchiarini.cesare\\Desktop\\progetti C#\\decifrazione\\cifrazione\\cifrazione\\cifrazione.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cucchiarini.cesare\\Desktop\\progetti C#\\cifrazione\\cifrazione\\cifrazione.csproj",
+        "projectUniqueName": "C:\\Users\\cucchiarini.cesare\\Desktop\\progetti C#\\decifrazione\\cifrazione\\cifrazione\\cifrazione.csproj",
         "projectName": "cifrazione",
-        "projectPath": "C:\\Users\\cucchiarini.cesare\\Desktop\\progetti C#\\cifrazione\\cifrazione\\cifrazione.csproj",
+        "projectPath": "C:\\Users\\cucchiarini.cesare\\Desktop\\progetti C#\\decifrazione\\cifrazione\\cifrazione\\cifrazione.csproj",
         "packagesPath": "C:\\Users\\cucchiarini.cesare\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cucchiarini.cesare\\Desktop\\progetti C#\\cifrazione\\cifrazione\\obj\\",
+        "outputPath": "C:\\Users\\cucchiarini.cesare\\Desktop\\progetti C#\\decifrazione\\cifrazione\\cifrazione\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cucchiarini.cesare\\AppData\\Roaming\\NuGet\\NuGet.Config",
