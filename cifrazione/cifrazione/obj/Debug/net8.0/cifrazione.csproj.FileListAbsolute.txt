@@ -1,0 +1,14 @@
+C:\Users\cucchiarini.cesare\Desktop\progetti C#\cifrazione\cifrazione\bin\Debug\net8.0\cifrazione.exe
+C:\Users\cucchiarini.cesare\Desktop\progetti C#\cifrazione\cifrazione\bin\Debug\net8.0\cifrazione.deps.json
+C:\Users\cucchiarini.cesare\Desktop\progetti C#\cifrazione\cifrazione\bin\Debug\net8.0\cifrazione.runtimeconfig.json
+C:\Users\cucchiarini.cesare\Desktop\progetti C#\cifrazione\cifrazione\bin\Debug\net8.0\cifrazione.dll
+C:\Users\cucchiarini.cesare\Desktop\progetti C#\cifrazione\cifrazione\bin\Debug\net8.0\cifrazione.pdb
+C:\Users\cucchiarini.cesare\Desktop\progetti C#\cifrazione\cifrazione\obj\Debug\net8.0\cifrazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cucchiarini.cesare\Desktop\progetti C#\cifrazione\cifrazione\obj\Debug\net8.0\cifrazione.AssemblyInfoInputs.cache
+C:\Users\cucchiarini.cesare\Desktop\progetti C#\cifrazione\cifrazione\obj\Debug\net8.0\cifrazione.AssemblyInfo.cs
+C:\Users\cucchiarini.cesare\Desktop\progetti C#\cifrazione\cifrazione\obj\Debug\net8.0\cifrazione.csproj.CoreCompileInputs.cache
+C:\Users\cucchiarini.cesare\Desktop\progetti C#\cifrazione\cifrazione\obj\Debug\net8.0\cifrazione.dll
+C:\Users\cucchiarini.cesare\Desktop\progetti C#\cifrazione\cifrazione\obj\Debug\net8.0\refint\cifrazione.dll
+C:\Users\cucchiarini.cesare\Desktop\progetti C#\cifrazione\cifrazione\obj\Debug\net8.0\cifrazione.pdb
+C:\Users\cucchiarini.cesare\Desktop\progetti C#\cifrazione\cifrazione\obj\Debug\net8.0\cifrazione.genruntimeconfig.cache
+C:\Users\cucchiarini.cesare\Desktop\progetti C#\cifrazione\cifrazione\obj\Debug\net8.0\ref\cifrazione.dll
